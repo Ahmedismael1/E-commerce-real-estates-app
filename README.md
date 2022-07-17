@@ -1,8 +1,7 @@
-# movies app
+# e-commerce for real estates 
 
 A new Flutter project.
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
